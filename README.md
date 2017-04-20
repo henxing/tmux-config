@@ -1,6 +1,7 @@
 # tmux-config
-My .tmux.config file.
+My tmux config file.
 
+## Installation instructions
 ```bash
  $ git clone https://github.com/henxing/tmux-config.git
  Cloning into 'tmux-config'...
